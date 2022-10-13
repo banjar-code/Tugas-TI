@@ -1,13 +1,13 @@
 # These are supported funding model platforms
 
 github: [panduan-code, PanduanCode]
-patreon: panduan-code
-open_collective: panduan-code
-ko_fi: panduan-code
-tidelift: panduan-code/Tugas-TI
-community_bridge: Tugas-TI
-liberapay: panduan-code
-issuehunt: panduan-code
-otechie: panduan-code
-lfx_crowdfunding: Tugas-TI
+# patreon: panduan-code
+# open_collective: panduan-code
+# ko_fi: panduan-code
+# tidelift: panduan-code/Tugas-TI
+# community_bridge: Tugas-TI
+# liberapay: panduan-code
+# issuehunt: panduan-code
+# otechie: panduan-code
+# lfx_crowdfunding: Tugas-TI
 custom: ['https://link.dana.id/qr/eluk567', 'https://www.paypal.me/panduancode']
